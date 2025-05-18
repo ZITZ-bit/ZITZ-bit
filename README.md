@@ -10,7 +10,7 @@
 
 **🧠 Languages**
 
-![HTML](https://img.shields.io/badge/HTML-202020?style=for-the-badge&logo=html5&logoColor=E34F26) & ![CSS](https://img.shields.io/badge/CSS-202020?style=for-the-badge&logo=css3&logoColor=1572B6)
+![HTML](https://img.shields.io/badge/HTML-202020?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/CSS-202020?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-202020?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 

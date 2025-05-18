@@ -1,16 +1,31 @@
-## Hi there 👋
+### 🧉 Helloo! I'm Andrew Carrero
 
-<!--
-**ZITZ-bit/ZITZ-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Passionate about web development, app development, and data science.  
+🛠️ I really enjoy building projects from scratch and watching them grow.  
+📚 Currently diving deeper into Python and C++.    :)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Languages & Technologies I work with
+
+**🧠 Languages**
+
+- HTML & CSS
+
+- JavaScript
+
+**🚧 Frameworks & Libraries**
+
+- React ⚛️
+
+- Node.js
+
+- Next.js
+
+- Angular 🛸
+
+- TailwindCSS 🎨
+
+---
+
+Thanks for checking out my profile ;p

@@ -10,21 +10,21 @@
 
 **🧠 Languages**
 
-![HTML](https://img.shields.io/badge/HTML-202020?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/CSS-202020?style=for-the-badge&logo=css3&logoColor=1572B6)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-202020?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **🚧 Frameworks & Libraries**
 
-![React](https://img.shields.io/badge/React-202020?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-![Node.js](https://img.shields.io/badge/Node.js-202020?style=for-the-badge&logo=node.js&logoColor=339933)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-![Next.js](https://img.shields.io/badge/Next.js-202020?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-![Angular](https://img.shields.io/badge/Angular-202020?style=for-the-badge&logo=angular&logoColor=DD0031)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-202020?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 

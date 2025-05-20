@@ -2,7 +2,7 @@
 
 ✨ Passionate about web development, app development, and data science.  
 🛠️ I really enjoy building projects from scratch and watching them grow.  
-📚 Currently diving deeper into Python and C++ .
+📚 Currently diving deeper into Python and C# .
 
 ---
 

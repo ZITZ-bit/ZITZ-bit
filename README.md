@@ -2,7 +2,7 @@
 
 ✨ Passionate about web development, app development, and data science.  
 🛠️ I really enjoy building projects from scratch and watching them grow.  
-📚 Currently diving deeper into Python and C# .
+📚 Currently diving deeper into Python.
 
 ---
 
@@ -21,8 +21,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 

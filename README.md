@@ -20,7 +20,7 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)   ![Nest.js](https://img.shields.io/badge/Nest.JS-E0234E?style=for-the-badge&logo=nest.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)   ![Nest.js](https://img.shields.io/badge/Nest.JS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
